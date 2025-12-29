@@ -45,3 +45,11 @@ int main() {
 
     return 0;
 }
+
+
+Output:
+Enter number of elements: 5
+Enter elements:
+8 3 1 7 2
+Sorted array:
+1 2 3 7 8
