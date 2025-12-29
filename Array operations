@@ -42,3 +42,13 @@ int main() {
 
     return 0;
 }
+
+
+Output
+Enter number of elements: 5
+Enter elements:
+10 20 30 40 50
+Enter your choice: 1
+Enter position and value: 3 25
+Array elements:
+10 20 25 30 40 50
