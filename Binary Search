@@ -31,3 +31,11 @@ int main() {
     printf("Element not found");
     return 0;
 }
+
+
+Output:
+Enter number of elements: 5
+Enter sorted elements:
+5 10 15 20 25
+Enter element to search: 15
+Element found at position 3
