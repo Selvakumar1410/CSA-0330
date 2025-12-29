@@ -84,3 +84,9 @@ int main() {
     inorder(root);
     return 0;
 }
+
+
+Output:
+
+Inorder traversal:
+10 20 30
