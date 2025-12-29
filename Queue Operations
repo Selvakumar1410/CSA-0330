@@ -37,3 +37,8 @@ int main() {
     display();
     return 0;
 }
+
+Output:
+Deleted element: 10
+20 30
+
