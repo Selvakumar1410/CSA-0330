@@ -43,3 +43,12 @@ int main() {
 
     return 0;
 }
+
+
+Output:
+Enter number of vertices: 4
+Shortest distances:
+0 -> 0
+1 -> 5
+2 -> 8
+3 -> 9
