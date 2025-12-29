@@ -48,3 +48,8 @@ int main() {
     }
     return 0;
 }
+
+
+Output:
+Enter your choice: 1
+Enter value to push: 50
