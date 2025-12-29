@@ -39,3 +39,10 @@ int main() {
     printf("Minimum cost = %d", mincost);
     return 0;
 }
+
+
+Output:
+Edge 1: (0 1) cost: 2
+Edge 2: (1 2) cost: 3
+Edge 3: (2 3) cost: 1
+Minimum cost = 6
